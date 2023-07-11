@@ -3,9 +3,9 @@
 public class Main {
     public static void main(String[] args) {
 
-       int price = 24850;
-       int x = 20;
-       int bonus = price / x;
+        int price = 24850;
+        int translator = 20;
+        int bonus = price / translator;
 
         System.out.println("Начисленно бонусных милль");
         System.out.println(bonus);
